@@ -4,14 +4,18 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Saludando empleado = new Empleado();
+        ISaludando empleado = new Empleado();
         empleado.Saludar();
 
-        Saludando docente = new Docente();
+        ISaludando docente = new Docente();
         docente.Saludar();
 
-        Saludando maestro = new Maestro();
+        ISaludando maestro = new Maestro();
         maestro.Saludar();
+
+        ISaludando estudiante = new Estudiante();
+        estudiante.Saludar();
+
 
         Console.ReadKey();
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_1___MiembroDeLaComunidad.Class
 {
-    public class Empleado : MiembroDeLaComunidad, Saludando
+    public class Empleado : MiembroDeLaComunidad, ISaludando
     {
         public string ID { get; set; }
         public string Departamento { get; set;}

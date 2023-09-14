@@ -2,7 +2,7 @@
 
 namespace Ejercicio_1___MiembroDeLaComunidad.Class
 {
-    public abstract class MiembroDeLaComunidad : Saludando
+    public abstract class MiembroDeLaComunidad : ISaludando
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }

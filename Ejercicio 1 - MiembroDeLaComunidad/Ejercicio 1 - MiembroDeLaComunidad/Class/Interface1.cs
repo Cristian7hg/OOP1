@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_1___MiembroDeLaComunidad.Class
 {
-    public interface Saludando
+    public interface ISaludando
     {
         void Saludar();
         

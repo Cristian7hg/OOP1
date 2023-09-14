@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_1___MiembroDeLaComunidad.Class
 {
-    public class Maestro : Docente, Saludando
+    public class Maestro : Docente, ISaludando
     {
         public string ProgramaEducativo { get; set; }
         public string HorarioDeClases { get; set; }

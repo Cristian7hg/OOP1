@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_1___MiembroDeLaComunidad.Class
 {
-    public class Estudiante : MiembroDeLaComunidad, Saludando
+    public class Estudiante : MiembroDeLaComunidad, ISaludando
     {
         public string Matricula { get; set; }
         public override void Saludar()
