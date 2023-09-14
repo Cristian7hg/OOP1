@@ -1,0 +1,15 @@
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\bin\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.exe
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\bin\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.deps.json
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\bin\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.runtimeconfig.json
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\bin\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.dll
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\bin\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.pdb
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.csproj.AssemblyReference.cache
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.AssemblyInfoInputs.cache
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.AssemblyInfo.cs
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.csproj.CoreCompileInputs.cache
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.dll
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\refint\Ejercicio 1 - MiembroDeLaComunidad.dll
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.pdb
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\Ejercicio 1 - MiembroDeLaComunidad.genruntimeconfig.cache
+C:\Programacion II\Ejercicio 1 - MiembroDeLaComunidad\Ejercicio 1 - MiembroDeLaComunidad\obj\Debug\net6.0\ref\Ejercicio 1 - MiembroDeLaComunidad.dll
